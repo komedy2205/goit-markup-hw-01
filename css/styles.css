@@ -1,0 +1,106 @@
+li {
+  list-style: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.web {
+  color: #2196f3;
+  font-family: "Raleway", sans-serif;
+}
+
+.studio-logo {
+  color: #212121;
+  font-family: "Raleway", sans-serif;
+}
+
+.link-studio,
+.link-portfolio,
+.link-contacts {
+  color: #212121;
+}
+
+.link-studio:hover,
+.link-studio:focus {
+  color: #2196f3;
+}
+
+.link-portfolio:hover,
+.link-portfolio:focus {
+  color: #2196f3;
+}
+
+.link-contacts:hover,
+.link-contacts:focus {
+  color: #2196f3;
+}
+.mail {
+  color: #212121;
+}
+
+.mail:hover,
+.mail:focus {
+  color: #2196f3;
+}
+
+.telephone {
+  color: #212121;
+}
+.telephone:hover,
+.telephone:focus {
+  color: #2196f3;
+}
+.hero {
+  background-color: #2f303a;
+}
+
+h1 {
+  color: white;
+}
+.service-button {
+  background-color: #2196f3;
+}
+
+.button-text {
+  color: white;
+}
+
+h2,
+h3 {
+  color: #212121;
+}
+
+.description {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.team {
+  background-color: #f5f4fa;
+}
+
+footer {
+  background-color: #2f303a;
+}
+
+.description-team {
+  color: #757575;
+}
+
+.studio-logo-footer {
+  color: white;
+  font-family: "Raleway", sans-serif;
+}
+
+.address {
+  color: #ffffff;
+}
+
+.mail-footer,
+.telephone-footer {
+  color: rgba(255, 255, 255, 0.6);
+}
